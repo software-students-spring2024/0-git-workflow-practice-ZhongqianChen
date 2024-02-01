@@ -10,3 +10,7 @@ They've also explained the importance of interaction / communication between gro
 I really enjoyed learning about their unique approach in their game development process. While top-down division of labor is typically used in mid-to-large game development for efficiency purposes, I like how lead programmer Takashi prioritizes individual creativity through a highly flexible approach. After all, creative initiatives is what users find so compelling about video games in the first place! (edit by Corina Luca).
 
 Indie game developers are one of the most challenged software engineers as that face relatively meager budget and timeframe without funding from major releasers. Many of them have to work another job during the development. They are the true artists in both game industry and software engineering. (edit by Wei Luo).
+
+
+Opinion - Niket Gautam:
+I really liked reading this article as it coincides a bit with the artice that I chose. This articles gives a good reasoning on how the thought process should be in the field of software engineering and moreover, give a very good understanding of how communication is really important for the best production. 
